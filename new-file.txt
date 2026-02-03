@@ -1,1 +1,2 @@
 Hello, Git
+learning the Git fetures and commands.
